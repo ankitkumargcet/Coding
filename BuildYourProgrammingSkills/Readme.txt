@@ -1,8 +1,8 @@
 This Repository contains some of the basic codings related to java.
 
-Q1-App01: How to swap two numbers without using Temporary variable?
+Q1-App01: WAP to read two numbers and swap without using Temporary variable?
 
-Q2-App02: How to swap two numbers by using bitwise Operator?
+Q2-App02: WAP to read two numbers and swap by using bitwise Operator?
 
 Q3-App03: WAP to read two numbers and display its sum without '+' operator.
 
