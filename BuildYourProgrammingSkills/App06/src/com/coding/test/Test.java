@@ -14,7 +14,7 @@ public class Test {
 
 	}
 
-	// Logic for finding remainder without '%' operator
+	// Logic for n natural number
 	public static void naturalNumber(int n) {
 		int number = 0;
 		System.out.println("Requested Natural numbers are:");
