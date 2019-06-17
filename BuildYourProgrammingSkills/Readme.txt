@@ -11,3 +11,5 @@ Q4-App04: WAR to read two numbers and dispaly its quotient without '/' operator.
 Q5-App05: WAR to read two numbers and dispaly its remainder without '%' operator.
 
 Q6-App06: WAP to print first n natural number.
+
+Q7-App07: WAR to read a year and check whether it's leap year or not.
