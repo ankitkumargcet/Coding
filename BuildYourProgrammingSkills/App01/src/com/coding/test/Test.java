@@ -6,5 +6,9 @@ public class Test {
 		
 
 	}
+	
+	public static void swap(int no1, int no2) {
+		
+	}
 
 }
